@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: ZooKeeper
+## Notes: Gotta catch 'em all
+## Author: Oldsalt
+## SavedVariables: zooTable
+ZooKeeper.lua
